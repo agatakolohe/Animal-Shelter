@@ -12,7 +12,7 @@ This is a supplemental practice website for Epicodus. It was made to practice di
 
 * Clone this repository
 * Open with VS code to edit
-* Go to Gh Pages to view in browser
+* Go to GH Pages to view in browser
 
 ## Known Bugs
 
