@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a supplemental practice website for Epicodus. It was made to practice divs, classes, floats, box model, and cascading. The assignment was to create a animal shelter. It is Star Trek Next Generation themed. It includes columns for each animal available for adoption with unique and specific divs and classes to emphasis importance and interesting details about the animals. 
+This is a supplemental practice website for Epicodus. It was made to practice divs, classes, floats, box model, and cascading. The assignment was to create an animal shelter. It is Star Trek Next Generation themed. It includes columns for each animal available for adoption with unique and specific divs and classes to emphasis importance and interesting details about the animals. 
 
 ## Setup/Installation Requirements
 
