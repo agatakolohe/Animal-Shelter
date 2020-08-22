@@ -1,0 +1,26 @@
+img {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+
+.column1 {
+  width: 200px;
+  padding: 40px;
+  border: solid black;
+  border-width: 10px;
+  background-color:red;
+  margin: 20px;
+  float: left;
+}
+
+.column2 {
+  width: 200px;
+  padding: 40px;
+  border: solid black;
+  border-width: 10px;
+  background-color: gold;
+  margin: 20px;
+  float: left;
+}
