@@ -17,6 +17,7 @@ img {
 }
 .column1 {
   width: 200px;
+  height: auto;
   padding: 40px;
   border: solid black;
   border-width: 10px;
@@ -27,6 +28,7 @@ img {
 
 .column2 {
   width: 200px;
+  height: auto;
   padding: 40px;
   border: solid black;
   border-width: 10px;
@@ -37,6 +39,7 @@ img {
 
 .column3 {
   width: 200px;
+  height: auto;
   padding: 40px;
   border: solid black;
   border-width: 10px;
@@ -47,6 +50,7 @@ img {
 
 .column4 {
   width: 200px;
+  height: auto;
   padding: 40px;
   border: solid black;
   border-width: 10px;
@@ -57,6 +61,7 @@ img {
 
 .column5 {
   width: 200px;
+  height: auto;
   padding: 40px;
   border: solid black;
   border-width: 10px;
@@ -67,6 +72,7 @@ img {
 
 .column6 {
   width: 200px;
+  height: auto;
   padding: 40px;
   border: solid black;
   border-width: 10px;
@@ -77,11 +83,22 @@ img {
 
 .column7 {
   width: 200px;
+  height: auto;
   padding: 40px;
   border: solid black;
   border-width: 10px;
   background-color: gold;
   margin: 20px;
+  float: left;
+}
+.column8 {
+  width: 200px;
+  height: auto;
+  padding: 40px;
+  border: solid black;
+  border-width: 10px;
+  background-color: gold;
+  margin: 40px;
   float: left;
 }
 .interesting {
